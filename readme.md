@@ -43,6 +43,7 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
    3. [Хранение данных](architecture.md/#хранение-данных)
    
 3. [Работа с локальным репозиторием](local_repository.md)
+
    1. [Небольшая настройка](local_repository.md/#маленькая-начальная-настройка-git)
    
    2. [Базовые команды для работы с локальным репозиторием](local_repository.md/#базовые-команды-для-работы-с-локальным-репозиторием)
@@ -88,6 +89,8 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
       * [Команда git rebase](branches.md/#команда-git-rebase)
 
    2. [Краткие итоги главы](branches.md/#краткие-итоги)
+
+6. [Ссылки на использованную литературу](links.md)
 
 
 
