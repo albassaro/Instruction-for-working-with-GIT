@@ -37,7 +37,6 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
    
    1. [Архитектура двух деревьев](architecture.md/#архитектура-двух-деревьев)
 
-
    2. [Архитектура трех деревьев](architecture.md/#архитектура-трех-деревьев)
    
    3. [Хранение данных](architecture.md/#хранение-данных)
@@ -62,8 +61,6 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
    
       * [Команда git diff](local_repository.md/#отличия-между-объектами-в-проекте-команда-git-diff)
    
-   3. [Краткие итоги главы](local_repository.md/#подведение-итогов)
-   
 4. [Работа с удаленным репозиторием](remote_repository.md)
    
    1. [Основы работы с удаленным репозиторием](remote_repository.md/#основы-работы-с-удаленным-репозиторием)
@@ -73,8 +70,6 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
       * [Команда git fetch, git pull](remote_repository.md/#git-fetch-и-git-pull--извлечение-данных-из-центрального-репозитория)
   
       * [Команда git push](remote_repository.md/#git-push--внесение-изменений-в-удаленный-репозиторий)
-
-   2. [Краткие итоги главы](remote_repository.md/#итоги-главы)
    
 5. [Ветки](branches.md/)
    
@@ -87,8 +82,6 @@ license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
       * [Команда git merge](branches.md/#команда-git-merge--слияние-веток)
   
       * [Команда git rebase](branches.md/#команда-git-rebase)
-
-   2. [Краткие итоги главы](branches.md/#краткие-итоги)
 
 6. [Ссылки на использованную литературу](links.md)
 

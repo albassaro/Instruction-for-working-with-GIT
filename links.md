@@ -39,7 +39,17 @@
 
 [20. Синхронизация в Git](https://www.atlassian.com/ru/git/tutorials/syncing)
 
+<br>
 
+---
+
+<div class = "buttonnavigation" align="center">
+<p>
+
+[К содержанию](readme.md/#содержание)
+
+</p>
+</div>
 
 
 

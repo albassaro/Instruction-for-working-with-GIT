@@ -138,18 +138,20 @@ git push
     git push --force <remote> 
     ```
 
+<br>
 
-# Итоги главы
+---
 
-* Рассмотрели команды git clone, git fetch, git pull, git push
-  
-* Узнали часть используемых этими командами параметров
+<div class = "buttonnavigation" align="center">
+<p>
 
+[К содержанию](readme.md/#содержание)
 
+[Назад](local_repository.md) 
+[Далее](branches.md)
 
-
-
-
+</p>
+</div>
 
 
 
